@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h11ce7fa2g551eg4010g8709g9c6f815bcbc8" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd14e3418ge3cbg4369g9d15g2e0db4863bc1" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_Chest_Travel_A_Small_A" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="IsInspector" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="183038fc-1f46-47b2-9e54-4a3b88b8b93d" />
+					<attribute id="Name" type="LSString" value="OBJ_CasterArmor_Box" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.5" />
+					<attribute id="Stats" type="FixedString" value="OBJ_CasterArmor_Box" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="OBJ_CasterArmor_Box_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h2437c058ge817g41fcga862g636d0f380098" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h0b173e47g4296g447fg9d3fgfbad8e6e3f8b" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_Hide" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e5fd737c-b0ff-46a8-aaad-20fb7a08155b" />
+					<attribute id="Name" type="LSString" value="ARM_Hide_CasterArmor_1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="b78fabcc-d2df-4c74-b5d4-1eda6dc4c071" />
+					<attribute id="Stats" type="FixedString" value="ARM_Hide_CasterArmor_1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h87737c2dg28f2g416cg96acg1b9ee92bb478" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h619eb620g45b2g4728g8468geb935477fc74" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_Hide_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8649cd5a-c9ee-4bac-b397-0379de5f59c6" />
+					<attribute id="Name" type="LSString" value="ARM_Hide_CasterArmor_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="94ed8ec8-93a4-4a8c-bc47-55cb3faae7c0" />
+					<attribute id="Stats" type="FixedString" value="ARM_Hide_CasterArmor_2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h86a5232bg74adg43e3g8178g80912b5a3d38" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hab1ee581gc2e5g4ee0gafa5gad925b2ad97e" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_Hide_2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="cb13fdab-c1d6-4289-a991-5901923711f8" />
+					<attribute id="Name" type="LSString" value="ARM_Hide_CasterArmor_3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fd4ab5b0-67e6-4a8b-8745-2003f2f5ada3" />
+					<attribute id="Stats" type="FixedString" value="ARM_Hide_CasterArmor_3" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="haf7570f9gc21ag4344g852bg00339ebf00c8" version="3" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4e3704d6g8c33g4d97g9c5dg1c7163e1d740" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_HalfPlate" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ff4e9c74-c991-4e75-8047-88e6844a26df" />
+					<attribute id="Name" type="LSString" value="ARM_HalfPlate_Caster_1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="34a71679-0ab5-4fd4-bba8-d6ad341ee490" />
+					<attribute id="Stats" type="FixedString" value="ARM_HalfPlate_Caster_1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hdb195d29g5b10g45b3g903bgccfec45fe341" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc7d0fbaeg7c1dg46fbgb24fga6d37c3af06d" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_HalfPlate_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="57eac4cc-7869-41ff-a6cf-baf8c9a5c2da" />
+					<attribute id="Name" type="LSString" value="ARM_HalfPlate_Caster_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c3407c8d-0180-4f5a-9530-e1167e7290b3" />
+					<attribute id="Stats" type="FixedString" value="ARM_HalfPlate_Caster_2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h0880e14eg40a3g4f4ag929dg413f6aa627c1" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h98bc5021g3f0fg4006g80a3gd7fdb9eaa3ef" version="2" />
+					<attribute id="Icon" type="FixedString" value="Generated_ARM_HalfPlate_2_Magic" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="576f99ae-0e6b-4702-be87-12a3f4692255" />
+					<attribute id="Name" type="LSString" value="ARM_HalfPlate_Caster_3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="15338da1-c4f8-4b43-912c-c14e7d9a8579" />
+					<attribute id="Stats" type="FixedString" value="ARM_HalfPlate_Caster_3" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,64 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_CampRobes_Backpack",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_CampRobes_Backpack",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_CampRobes_Backpack",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_CampRobes_Backpack",1,0,0,0,0,0,0,0
+
+new treasuretable "OBJ_CampRobes_Backpack_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_UNI_GaleRobe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Robe_Sorcerer_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Robe_Sorcerer_DraconicAncestry_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Robe_Sorcerer_StormSorcery_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Frost_GenerateFrostOnDamage_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Heat_Fire_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_ChargedLightning_BonusAC_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_CQCaster_GainArcaneChargeOnDamaged_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_WYRM_UndeadProtector_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_OfArcanicAssault_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_OfSpellResistance_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_CharismaCaster_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ORI_Wyll_Infernal_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Selunite_Isobel_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_EndGameCaster_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_LC_Lorroakan_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Viconia_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Umberlee_Robe_A_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_FOR_SpiderQueen_Robe_CAMP",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_RobeOfSummer_CAMP",1,0,0,0,0,0,0,0

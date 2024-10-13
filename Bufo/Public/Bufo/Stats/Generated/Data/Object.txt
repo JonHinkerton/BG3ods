@@ -1,0 +1,8 @@
+new entry "Tea_Pot_Bufo"
+type "Object"
+using "_Loot"
+data "RootTemplate" "5ff4d6fb-446d-4069-9ad1-a887bb0095c8"
+data "ValueOverride" "1"
+data "Weight" "0.5"
+data "Rarity" "VeryRare"
+data "Boosts" "UnlockSpell(Target_Summon_Bufo)"

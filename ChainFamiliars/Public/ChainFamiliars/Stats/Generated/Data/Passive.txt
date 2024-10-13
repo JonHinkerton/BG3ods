@@ -1,0 +1,7 @@
+new entry "PactOfTheChain"
+type "PassiveData"
+data "DisplayName" "ha717549cge179g4663gbd08g31e962705e92;2"
+data "Description" "hdf0288dcgd48fg4231g9c35gc47abe552d4f;2"
+data "Icon" "Action_Warlock_PactOfTheChain_Imp"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Target_FindFamiliar_Ritual);UnlockSpell(Target_PactOfTheChain_Imp);UnlockSpell(Target_PactOfTheChain_Quasit);UnlockSpell(Target_PactOfTheChain_Redcap);UnlockSpell(Target_PactOfTheChain_Flumph)"

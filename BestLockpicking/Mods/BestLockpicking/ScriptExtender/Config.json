@@ -1,0 +1,5 @@
+{
+    "RequiredVersion": 1,
+    "ModTable": "Use Best Sleight of Hand",
+    "FeatureFlags": ["Lua"]
+}

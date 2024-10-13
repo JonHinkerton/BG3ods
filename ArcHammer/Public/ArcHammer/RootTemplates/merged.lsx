@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="ee2befff-ef7d-460f-8116-9a54743d9e17" />
+					<attribute id="Name" type="LSString" value="MAG_Archammer" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e1b3db9-036e-4931-ab92-c3730a1c3d5f" />
+					<attribute id="VisualTemplate" type="FixedString" value="1cb1363c-f955-e949-a701-de0acca84839" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hdc01bf3eg0d0eg40a6gbe78g287ce388bc6d" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_WarHammer_A_1" />
+					<attribute id="Stats" type="FixedString" value="MAG_WPN_Archammer" />
+					<attribute id="Description" type="TranslatedString" handle="hbf850070g2b58g4089g8e01g009e383ccfe8" version="1" />
+					<attribute id="Scale" type="float" value="0.6" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h3679d35agab64g433cg8457gf8bf5b058de4" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h5cccaa0bg892cg4e56g9cd4g5277afbe96ba" version="1" />
+					<attribute id="ExamineRotation" type="fvec3" value="65 180 0" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_WarHammer_A_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="c9a3435c-d3cf-46de-a64a-849cf46c3eb9" />
+					<attribute id="Name" type="LSString" value="MAG_Hammerheshkir" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e1b3db9-036e-4931-ab92-c3730a1c3d5f" />
+					<attribute id="Stats" type="FixedString" value="MAG_Hammerheshkir" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="1cb1363c-f955-e949-a701-de0acca84839" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

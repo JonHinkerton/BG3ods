@@ -1,0 +1,6 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "2500,1"
+object category "I_OBJ_GoldCoin",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Tool_Shovel",1,0,0,0,0,0,0,0

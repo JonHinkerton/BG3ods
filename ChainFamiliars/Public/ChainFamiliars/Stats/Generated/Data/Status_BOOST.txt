@@ -1,0 +1,9 @@
+new entry "PACTOFTHECHAIN_Redcap"
+type "StatusData"
+data "StatusType" "BOOST"
+using "PACTOFTHECHAIN_CAT"
+
+new entry "PACTOFTHECHAIN_Flumph"
+type "StatusData"
+data "StatusType" "BOOST"
+using "PACTOFTHECHAIN_CAT"

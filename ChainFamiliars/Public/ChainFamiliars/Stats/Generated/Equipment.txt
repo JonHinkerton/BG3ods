@@ -1,0 +1,4 @@
+new equipment "EQP_Chain_Redcap"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Redcap_Sickle"

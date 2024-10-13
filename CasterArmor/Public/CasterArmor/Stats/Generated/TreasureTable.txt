@@ -1,0 +1,20 @@
+new treasuretable "PLA_ZhentarimTrader_Common"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_Hide_CasterArmor_1",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_HalfPlate_Caster_1",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearvendor_Trade"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_Hide_CasterArmor_2",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_HalfPlate_Caster_2",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_MysticCarrion_Trade_Magic"
+CanMerge 1
+new subtable "-1"
+object category "I_ARM_Hide_CasterArmor_3",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ARM_HalfPlate_Caster_3",1,0,0,0,0,0,0,0
