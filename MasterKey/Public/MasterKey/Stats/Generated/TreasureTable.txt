@@ -1,0 +1,21 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_Obj_Master_Key",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Master_Key_2",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Thieflings_Pickpocket_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_Obj_Master_Key",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Thiefling_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_Obj_Master_Key",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Thiefling_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_Obj_Master_Key",1,0,0,0,0,0,0,0

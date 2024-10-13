@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hee442c69gb78fg4194g9e3egc9976823881d" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h58467897g3a52g4309gb7e0gd0a8d53f2a17" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_Chest_Travel_A_Small_A" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="IsInspector" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="354e4f82-6101-4409-ab74-5591f5495780" />
+					<attribute id="Name" type="LSString" value="OBJ_SignatureWeapon_Box" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.5" />
+					<attribute id="Stats" type="FixedString" value="OBJ_SignatureWeapon_Box" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="OBJ_SignatureWeapon_Box_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="d8df8afb-ebb2-4fa5-807a-13d96051c90a" />
+					<attribute id="Name" type="LSString" value="MAG_DancingFlame" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="afbfaee7-e2cd-48e7-8c46-d2377c7320e3" />
+					<attribute id="VisualTemplate" type="FixedString" value="42e11447-a999-161c-4d9f-31751a84c251" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4030a806gdd68g4212gb3fbg9d76ab1187dd" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greataxe_A_1" />
+					<attribute id="Stats" type="FixedString" value="MAG_WPN_DancingFlame" />
+					<attribute id="Description" type="TranslatedString" handle="h51f5c34fgc2f0g4ffbgaf62gae99325707fe" version="1" />
+					<children>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="MAG_THROWING_RETURN_TO_OWNER" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h2084e678g9f13g43c9ga6afgb33d9f923eab" version="3" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2223c00cg698ag40dcgb69bga7c2f38732a1" version="2" />
+					<attribute id="EquipmentTypeID" type="guid" value="4d500520-1818-4a5e-83b9-324957e22969" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Rapier_A_2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="5396c6a1-6857-4c94-a10a-a50543de6680" />
+					<attribute id="Name" type="LSString" value="MAG_WPN_DaringBlade" />
+					<attribute id="ParentTemplateId" type="FixedString" value="7061f489-4b13-4982-aa09-cf0ad961e75f" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="f71a9045-983a-d528-2970-18b6c647e00b" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="MAG_WPN_DaringBlade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="a6770c1c-e50a-cde1-78a1-771c1ab9aab0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.0607784 0.06996019 0.2115099" />
+									<attribute id="Min" type="fvec3" value="-0.07832382 -0.05088259 -0.988086" />
+									<attribute id="Radius" type="float" value="0.42423" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.060538 0.090254 0.198778" />
+									<attribute id="Min" type="fvec3" value="-0.096609 -0.050008 -0.988086" />
+									<attribute id="Radius" type="float" value="0.42423" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.163168" />
+									<attribute id="Max" type="fvec3" value="0.030269 0.090254 0.099389" />
+									<attribute id="Min" type="fvec3" value="-0.0483045 -0.050008 -0.494043" />
+									<attribute id="Radius" type="float" value="0.212115" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="71d80129-8a52-4a7b-acb7-c305f2e409b6" />
+					<attribute id="Name" type="LSString" value="MAG_MystralWand" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="VisualTemplate" type="FixedString" value="f058efdb-1233-371d-738a-a0d1dfea8935" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h56b6027agf182g4bc8g9317gf3ee49796d14" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Wand_K_0" />
+					<attribute id="Stats" type="FixedString" value="MAG_MystralWand" />
+					<attribute id="Description" type="TranslatedString" handle="h01a09998ga341g467ega5c2g7a1a1c918da9" version="1" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hfd45c31cg5cabg401cgb84dgf718e9341956" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hff049d9cg8647g4478g8785ga834b214f072" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2110842d-310d-4b3c-ab7e-24152722ff57" />
+					<attribute id="Name" type="LSString" value="Durge_Dagger" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e8df5166-5a68-42ec-b71f-4dfb754f7aa4" />
+					<attribute id="Stats" type="FixedString" value="Durge_Dagger" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="" version="0" />
+					<attribute id="TechnicalDescriptionParams" type="LSString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h820c8297g64f0g43d6g9621g31796fd56f7b" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2d434461gd397g4967gbab8g7ade636dc753" version="2" />
+					<attribute id="EquipSound" type="FixedString" value="ea27b98e-5fc0-4b0d-8602-e4a421dd481e" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="0b1f758e-f6f5-4213-9dfb-30a19411b05b" />
+					<attribute id="Name" type="LSString" value="MAG_Psychic_Gith_Monk_Circlet" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5b2412a1-b8e2-4c09-a5ca-50c5103fd297" />
+					<attribute id="Stats" type="FixedString" value="MAG_Psychic_Gith_Monk_Circlet" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="UnequipSound" type="FixedString" value="f4c24367-83af-484e-bcc5-0438b8e64dec" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="VisualTemplate" type="FixedString" value="440ae404-f397-1b35-271c-9ba963b4dea5" />
+					<attribute id="Description" type="TranslatedString" handle="h218143a5g1f52g4c92g9780gd7a05ca20228" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h57d743eeg45ffg47dfg8540g2607a2b370aa" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Wand_I_0" />
+					<attribute id="MapKey" type="FixedString" value="e10c3d2e-4e33-4ea0-a7b9-c02126303012" />
+					<attribute id="Name" type="LSString" value="MAG_Crit_Dagger" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e8df5166-5a68-42ec-b71f-4dfb754f7aa4" />
+					<attribute id="Stats" type="FixedString" value="MAG_Crit_Dagger" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="" version="0" />
+					<attribute id="TechnicalDescriptionParams" type="LSString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="VisualTemplate" type="FixedString" value="0771b2c1-ff5a-267b-5b94-95d39ba134c3" />
+					<attribute id="Description" type="TranslatedString" handle="hc80dfd6agb863g44aagbcabg079bff4c88c7" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he61c3258g4329g4628ga883gba08c6765c98" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_GTY_Longsword_A" />
+					<attribute id="MapKey" type="FixedString" value="b49629bb-2901-4702-ab73-5ed986cdff14" />
+					<attribute id="Name" type="LSString" value="MAG_Gith_Sword" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e8df5166-5a68-42ec-b71f-4dfb754f7aa4" />
+					<attribute id="Stats" type="FixedString" value="MAG_Gith_Sword" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="" version="0" />
+					<attribute id="TechnicalDescriptionParams" type="LSString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hb6c970dcg777ag4123gaa8agce1e38a97123" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h3b5dcf65g158fg41e8g8782g1102c0325bce" version="2" />
+					<attribute id="EquipmentTypeID" type="guid" value="cef94292-4854-4085-b343-5c041992234d" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Morningstar_A_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="9713fbe0-0b29-4cd4-82cc-7c3dd35b4ef5" />
+					<attribute id="Name" type="LSString" value="WPN_Morningstar_Lloth" />
+					<attribute id="ParentTemplateId" type="FixedString" value="26a9fba6-1a60-4691-84ea-da7ffcb304e0" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="98b789a2-64d7-36fb-1a31-3d03a6df8758" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="WPN_Morningstar_Lloth" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="5aa8f4e1-9820-0466-c65c-1c3f3c59c1d3" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209022" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hc61232cagd55cg4629gafcfg6c5fb66fe82e" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4963c6a0g88d0g4886g9476g73fadb6ef96d" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="f85002a2-8e0e-4a49-aa0f-f52e987d3a3a" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longsword_A_0" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="89c79dd2-5585-495d-95e7-5cea2b9d02f7" />
+					<attribute id="Name" type="LSString" value="WPN_Longsword_Protagonist" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="WPN_Longsword_Protagonist" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="c1319fce-3d47-ac75-e502-a3e965500038" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="he83a7574gcd0ag42e6g9972gdc51607997eb" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4ae0641age5fdg4776g9835gb9cb7c59bf90" version="1" />
+					<attribute id="ExamineRotation" type="fvec3" value="65 180 0" />
+					<attribute id="Icon" type="FixedString" value="Item_DEN_FaithwardenStaff" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ee704d40-7528-4ae7-bf28-5fae332b6bcc" />
+					<attribute id="Name" type="LSString" value="WPN_Bearstaff" />
+					<attribute id="ParentTemplateId" type="FixedString" value="48318705-311a-4b4c-b911-18d260d6db0f" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="ShootThroughType" type="int8" value="6" />
+					<attribute id="Stats" type="FixedString" value="WPN_Bearstaff" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="a8203442-23f8-a0b2-16b9-233c1714c27e" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="Wise_Warrior" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="hc61232cagd55cg4629gafcfg6c5fb66fe82e" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h31082d9eg9862g4fa1g950agc8e8ff5451e0" version="1" />
+					<attribute id="ExamineRotation" type="fvec3" value="65 180 0" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Quarterstaff_B_0" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="f4d90ebe-ca35-4171-bc97-5fcf8c702366" />
+					<attribute id="Name" type="LSString" value="WPN_Staff_Protagonist" />
+					<attribute id="ParentTemplateId" type="FixedString" value="48318705-311a-4b4c-b911-18d260d6db0f" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="ShootThroughType" type="int8" value="6" />
+					<attribute id="Stats" type="FixedString" value="WPN_Staff_Protagonist" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="c4f7eaad-1809-b0fa-563f-d0e1205afcfe" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="VisualTemplate" type="FixedString" value="231571d9-45d2-2627-7943-108acd0d0171" />
+					<attribute id="Description" type="TranslatedString" handle="hc7f2c955gac6bg4297ga17dge92f7caf51ae" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h427b90b4gec70g4319gad6bg9b85e703c0ce" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Wand_C_0" />
+					<attribute id="MapKey" type="FixedString" value="929fcb29-5c26-4980-a989-069d12aeff6b" />
+					<attribute id="Name" type="LSString" value="MAG_Shar_Mace" />
+					<attribute id="ParentTemplateId" type="FixedString" value="87a16db5-9a01-4053-a17d-a3d17a721db7" />
+					<attribute id="Stats" type="FixedString" value="MAG_Shar_Mace" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="" version="0" />
+					<attribute id="TechnicalDescriptionParams" type="LSString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h7502a6d8g0a6cg45c9gad5bg56edfccf7958" version="1">Archfey</content>  
+	<content contentuid="he986a556g8b28g49d6g8beegc04d1682310c" version="1">Sights of the Seelie: Summon Archfey</content>
+	<content contentuid="h34bc4737g619bg44fbgab2dg3f0eea34f2d4" version="1">The archfey can cast &lt;LSTag Type="Spell" Tooltip="Target_PixieWhispers"&gt;Dissonant Whispers&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_PixieDut"&gt;Pixie Dust&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Target_PixieStep"&gt;Misty Step&lt;/LSTag&gt;.</content>
+	<content contentuid="hf661a54cg8d90g4d6egbefagcc589cd86441" version="1">Conjure an archfey to fight alongside you. It can cast &lt;LSTag Type="Spell" Tooltip="Target_PixieWhispers"&gt;Dissonant Whispers&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_PixieDut"&gt;Pixie Dust&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Target_PixieStep"&gt;Misty Step&lt;/LSTag&gt;.</content>
+	<content contentuid="h9fe67c7egbf60g4370gace2g8d3a0c8aa8d1" version="1">Pixie Dust</content>
+</contentList>
+

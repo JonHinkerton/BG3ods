@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="319"/>
+    <region id="Outcomes">
+        <node id="root">
+            <children>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Burning"/>
+                    <attribute id="UUID" type="guid" value="1de4afb2-af08-4b15-acd9-67900988b524"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Teleport"/>
+                    <attribute id="UUID" type="guid" value="91978220-10c8-408d-b007-3e49c942e231"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Enchant"/>
+                    <attribute id="UUID" type="guid" value="c0bed39c-8995-4a80-a154-402a645622d8"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Fog"/>
+                    <attribute id="UUID" type="guid" value="a1595d0f-7404-4425-9059-99f1c0bbe74d"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Blur"/>
+                    <attribute id="UUID" type="guid" value="b0f4249d-259d-4e36-99f5-9085de88adc7"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Mephit"/>
+                    <attribute id="UUID" type="guid" value="fc8b4f7a-5fcc-4f7f-bf11-33c8446eb73a"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Fly"/>
+                    <attribute id="UUID" type="guid" value="e5abce48-ff95-48f7-9a0e-54d8d01f0949"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_ActionSurge"/>
+                    <attribute id="UUID" type="guid" value="f25e3f2e-57f6-4e8b-84ed-47caa519d0cc"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_SpikeGrowth"/>
+                    <attribute id="UUID" type="guid" value="67d14483-9f50-4398-a200-f06a5c85c901"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Entangle"/>
+                    <attribute id="UUID" type="guid" value="1d944ee6-31d7-4875-a6a3-522e95d55ad0"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Slow"/>
+                    <attribute id="UUID" type="guid" value="ac8ce48c-2908-44db-94dc-bb73eabcee53"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Polymorph"/>
+                    <attribute id="UUID" type="guid" value="faf73f62-9ea0-473e-bc10-342db0478dce"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_EnlargeReduce"/>
+                    <attribute id="UUID" type="guid" value="1588647a-e376-4cf2-afe4-8f0b55ca4e53"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_ResilientSphere"/>
+                    <attribute id="UUID" type="guid" value="2dbf813c-086c-4f69-bcdf-02759d3aff3d"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Telekinesis"/>
+                    <attribute id="UUID" type="guid" value="c660365a-56ef-44fb-ad87-6c6a0a4b3aa1"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_Shield"/>
+                    <attribute id="UUID" type="guid" value="b01c75ff-6ffa-41c3-a4af-0b90bd0f44e1"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_WildMagic_CatsAndDogs"/>
+                    <attribute id="UUID" type="guid" value="8b64ac78-5143-4830-867b-910cf774c0e9"/>
+                </node>
+				<node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_SelfHeal"/>
+                    <attribute id="UUID" type="guid" value="66e16116-19e8-4ac6-9e40-feff40b6ec81"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_SelfHeal"/>
+                    <attribute id="UUID" type="guid" value="5e064051-384e-49ef-a43d-22e78753e98a"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_SelfHeal"/>
+                    <attribute id="UUID" type="guid" value="5ed0c0d0-6757-4910-a16c-44c8f2de32c2"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_ForceExplosion"/>
+                    <attribute id="UUID" type="guid" value="88dd5a03-654e-4b36-b88b-0d30ebdd1b7e"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_ForceExplosion"/>
+                    <attribute id="UUID" type="guid" value="c1f1fe75-52d1-497c-9e71-3e401b145c71"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_ForceExplosion"/>
+                    <attribute id="UUID" type="guid" value="f84ffb97-f56c-4ed5-86c5-cfda090dbd71"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_ForceExplosion"/>
+                    <attribute id="UUID" type="guid" value="5a46ba7b-2451-4214-b667-6055e5df8302"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_ForceExplosion"/>
+                    <attribute id="UUID" type="guid" value="6359381c-046f-4b0f-abec-eadbdfddb2a8"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_ForceExplosion"/>
+                    <attribute id="UUID" type="guid" value="96ec6f2b-342f-433a-a7af-795af4f74699"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_Enlarge"/>
+                    <attribute id="UUID" type="guid" value="92a19209-554a-4868-b9d0-4ff0b3f01967"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_Enlarge"/>
+                    <attribute id="UUID" type="guid" value="b7fc04a5-ac59-4500-a4f6-d7aa02a1a628"/>
+                </node>
+				    <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_Enlarge"/>
+                    <attribute id="UUID" type="guid" value="f85cd91a-95b3-462d-807d-85c3244b9270"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_GremishkaSpawn"/>
+                    <attribute id="UUID" type="guid" value="887f4266-c05f-4a39-8650-a75442140668"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_GremishkaSpawn"/>
+                    <attribute id="UUID" type="guid" value="63d1432f-fc4b-480f-976a-aee131191e2f"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_GremishkaSpawn"/>
+                    <attribute id="UUID" type="guid" value="96f33ad8-be3a-4a71-b4c3-0acbae979916"/>
+                </node>
+				<node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_GremishkaSpawnFriendly"/>
+                    <attribute id="UUID" type="guid" value="4568f185-85d7-4582-b681-68274e91a439"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_GremishkaSpawnFriendly"/>
+                    <attribute id="UUID" type="guid" value="50ad2409-d840-46aa-8e8b-bc07462ee93f"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_GremishkaSpawnFriendly"/>
+                    <attribute id="UUID" type="guid" value="56955c64-73be-4cbf-bc99-6d39e4a5076e"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_Polymorph_Gremmy"/>
+                    <attribute id="UUID" type="guid" value="c062be93-d6db-4f36-8e61-3e892b0a4585"/>
+                </node>
+				<node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="Gremmy"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_MagicAllergy_Polymorph_Gremmy"/>
+                    <attribute id="UUID" type="guid" value="599f483a-edae-43ed-9f57-d1a423b72c84"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

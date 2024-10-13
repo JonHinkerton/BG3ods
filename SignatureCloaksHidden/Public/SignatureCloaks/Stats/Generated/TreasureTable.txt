@@ -1,0 +1,42 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_SignatureCloaks_Box",1,0,0,0,0,0,0,0
+
+new treasuretable "OBJ_SignatureCloaks_Box_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_Blade_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Gale_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Kithraki_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Sharran_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Selunite_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Bat_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Brimstone_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Halsin_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Minthara_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Protagonist_Cloak",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_SignatureCloaks_Box",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_SignatureCloaks_Box",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_SignatureCloaks_Box",1,0,0,0,0,0,0,0

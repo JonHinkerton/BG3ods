@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h4030a806gdd68g4212gb3fbg9d76ab1187dd" version="1">The Dancing Flame</content>  
+	<content contentuid="h51f5c34fgc2f0g4ffbgaf62gae99325707fe" version="1">An infamous infernal weapon, burning hot as the hells</content>
+	<content contentuid="h030c63fagd468g40d7gab4ag4ba4ef85a016" version="1">Hellsfire</content>	
+	<content contentuid="h2223c00cg698ag40dcgb69bga7c2f38732a1" version="1">The Daring Blade</content>  
+	<content contentuid="h2084e678g9f13g43c9ga6afgb33d9f923eab" version="1">A hero's sword, keen and ready to strike down the vile</content>
+	<content contentuid="he23bc71cga134g4471g8b11gdaf0ed0b5ff1" version="1">Reckless Abandon</content>
+	<content contentuid="hf37081bag2180g4ef5gb333g6e91180e07ad" version="1">You gain a +[1] bonus to &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; and jump distance.</content>
+	<content contentuid="h56b6027agf182g4bc8g9317gf3ee49796d14" version="1">Mystral Wand</content>
+	<content contentuid="h01a09998ga341g467ega5c2g7a1a1c918da9" version="1">An elegant conduit for the power of the weave</content>
+	<content contentuid="h32da6318g9a79g4391gbf5ega1f4ac98662b" version="1">Grants advantage on Concentration checks</content>
+	<content contentuid="h58467897g3a52g4309gb7e0gd0a8d53f2a17" version="1">Origin Weapon Crate</content>
+	<content contentuid="hee442c69gb78fg4194g9e3egc9976823881d" version="1">A splintering chest, easily overlooked</content>
+	<content contentuid="hff049d9cg8647g4478g8785ga834b214f072" version="1">Bloodgutter</content>
+	<content contentuid="hfd45c31cg5cabg401cgb84dgf718e9341956" version="1">A murderer's tool, wicked and purposeful.</content>
+	<content contentuid="h9a97a3f1g71d6g480fg8f82g59801dfa9f66" version="1">Serrated Edge</content>
+	<content contentuid="h69a547ccga254g46e3ga529gfe7890ca8c61" version="1">Possibly inflict &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleeding&lt;/LSTag&gt; when hitting a creature with this weapon</content>
+	<content contentuid="h2d434461gd397g4967gbab8g7ade636dc753" version="1">Sigil of the Astral Hand</content>
+	<content contentuid="h820c8297g64f0g43d6g9621g31796fd56f7b" version="1">Bestowed upon members of the Order to mark their mastery of the tenents of the Astral Hand</content>
+	<content contentuid="h63a6cb6dg2123g4015gb465gb8a6809aa081" version="1">Astral Strike</content>
+	<content contentuid="h07324e13g6713g431ag8ff1g3f3a644f03d9" version="1">Your unarmed attacks deal an additional [1]</content>
+	<content contentuid="h57d743eeg45ffg47dfg8540g2607a2b370aa" version="1">Hunger</content>
+	<content contentuid="h218143a5g1f52g4c92g9780gd7a05ca20228" version="1">They say that the only thing a vampire can feel is hunger. Nothing else touches them - not grief, or mercy. Or any sense of what is just.</content>
+	<content contentuid="h4dd16993gb3afg48d1gb5e2g440961582afd" version="1">Ravenous Bite</content>
+	<content contentuid="he61c3258g4329g4628ga883gba08c6765c98" version="1">Ghaikslayer</content>
+	<content contentuid="hc80dfd6agb863g44aagbcabg079bff4c88c7" version="1">A shimmering blade that slashes through body and mind</content>
+	<content contentuid="h834aabf4g86c4g4623g8c98g811c96be4c7d" version="1">Aberration Slayer</content>
+	<content contentuid="h83f5cf1ege8c7g4468gacfcgfcb8b6cebf7b" version="1">Against aberration type foes this weapon increases attack rolls by [1] and deals an additional [1] damage</content>
+	<content contentuid="h29134e72gef7bg4306gaffdg0a4d8aefc0a0" version="1">Hardened Mind</content>
+	<content contentuid="h1aa64048gc892g472fg9722gff864e664fbc" version="1">Githyanki gain a +[1] bonus to Intelligence, Wisdom, and Charisma Saving Throws</content>
+	<content contentuid="h3b5dcf65g158fg41e8g8782g1102c0325bce" version="1">Censer of the Spider Queen</content>
+	<content contentuid="hb6c970dcg777ag4123gaa8agce1e38a97123" version="1">A relic containing venom of the goddess Lloth herself</content>
+	<content contentuid="h4963c6a0g88d0g4886g9476g73fadb6ef96d" version="1">Sword of the Protagonist</content>
+	<content contentuid="hc61232cagd55cg4629gafcfg6c5fb66fe82e" version="1">Do you ever feel like the main character in the story?</content>
+	<content contentuid="hc0a887f6ge9d3g4f62gb75dgbb3ccdc8cc42" version="1">Inexplicably Competent</content>
+	<content contentuid="h6dc3a778ga00fg42acga72bg381e7a618c79" version="1">Your vaguely-defined past makes you more likely to succeed in any undertaking. Add your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; that you are not &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in.</content>
+	<content contentuid="hcc7b7374g3d01g4b83g8ffcgf84f19ffab3d" version="1">Plot Armor</content>
+	<content contentuid="hccfb3f4eg4a71g470agb515g1e7bb5bbf8b8" version="1">You're a Natural</content>
+	<content contentuid="h8855f8e5ga649g4a71g8597g957baf061a60" version="1">You are considered proficient with this weapon while it is equipped</content>
+	<content contentuid="h4ae0641age5fdg4776g9835gb9cb7c59bf90" version="1">Ursine Staff</content>
+	<content contentuid="he83a7574gcd0ag42e6g9972gdc51607997eb" version="1">A gnarled oak staff bearing the spirit of a great bear</content>
+	<content contentuid="h63585b82g6940g495bgb45fg183f4eb4db7e" version="1">Aspect of the Bear</content>
+	<content contentuid="hf5e8da6dg0f9cg43cfgaf9egf9b1e2d5d297" version="1">Gain resistance to all damage (except psychic) while wildshaped</content>
+	<content contentuid="h77355681g81a7g40b9ga1f5gc58631156670" version="1">Wizened Warrior</content>
+	<content contentuid="hc0f42f3dgc723g4a22g967ag589c3fa6d73d" version="1">Use the wielder's wisdom modifier for attack and damage.</content>
+	<content contentuid="h427b90b4gec70g4319gad6bg9b85e703c0ce" version="1">Scepter of Loss</content>
+	<content contentuid="hc7f2c955gac6bg4297ga17dge92f7caf51ae" version="1">If light is the symptom, then darkness is the cure, for in light there is presence, but in darkness there is absence.</content>
+	<content contentuid="h83c2feb0ge4b7g46d1gbc08g659d9db47a35" version="1">Absence</content>
+	<content contentuid="h31082d9eg9862g4fa1g950agc8e8ff5451e0" version="1">Staff of the Protagonist</content>
+</contentList>
+

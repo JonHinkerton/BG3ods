@@ -1,0 +1,9 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_Gremmy_Yarn",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_GithQuartermistress_Trade"
+CanMerge 1
+new subtable "-1"
+object category "I_Gremmy_Yarn",1,0,0,0,0,0,0,0

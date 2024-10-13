@@ -1,0 +1,9 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_Obj_HandOfIlynToth",1,0,0,0,0,0,0,0
+
+new treasuretable "FOR_ThayanCellar_JewelledChest_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_Obj_HandOfIlynToth",1,0,0,0,0,0,0,0

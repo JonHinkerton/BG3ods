@@ -1,0 +1,8 @@
+new entry "Obj_HandOfIlynToth"
+type "Object"
+using "_Loot"
+data "RootTemplate" "654e3355-af99-48ba-8cd2-2f577571f52a"
+data "ValueOverride" "1"
+data "Weight" "0.5"
+data "Rarity" "VeryRare"
+data "Boosts" "UnlockSpell(Target_Summon_HandOfIlynToth)"

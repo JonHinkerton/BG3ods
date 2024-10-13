@@ -1,0 +1,44 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_SignatureWeapon_Box",1,0,0,0,0,0,0,0
+
+new treasuretable "OBJ_SignatureWeapon_Box_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_WPN_DancingFlame",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_WPN_DaringBlade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_MystralWand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Durge_Dagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Crit_Dagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Gith_Sword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Morningstar_Lloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Longsword_Protagonist",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Bearstaff",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Shar_Mace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Staff_Protagonist",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_SignatureWeapon_Box",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_SignatureWeapon_Box",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_SignatureWeapon_Box",1,0,0,0,0,0,0,0

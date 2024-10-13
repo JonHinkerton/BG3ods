@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c400b7f2-3322-5403-6196-0e53bc3a6c89" />
+					<attribute id="FoleyLongResourceID" type="FixedString" value="" />
+					<attribute id="FoleyMediumResourceID" type="FixedString" value="" />
+					<attribute id="FoleyShortResourceID" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="2a1aaf1e-683f-9af2-c8d1-2354634bbc45-_(Icon_Gnomes_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="070c3ff8-cda3-4406-b5c9-8d9d9e5f5524" />
+					<attribute id="Name" type="LSString" value="BASE_Fey" />
+					<attribute id="ParentTemplateId" type="FixedString" value="b48a8e70-ef46-41e3-a0d3-40f9846cfc08" />
+					<attribute id="SoundMovementStartEvent" type="FixedString" value="" />
+					<attribute id="SoundMovementStopEvent" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="UseOcclusion" type="bool" value="True" />
+					<attribute id="VocalAttackResourceID" type="FixedString" value="2d6ba2aa-a454-e405-d736-b99d9c2a4fcb" />
+					<attribute id="VocalDeathResourceID" type="FixedString" value="746c8ed2-97a2-27bd-8b8d-90d55a4b3ded" />
+					<attribute id="VocalDodgeResourceID" type="FixedString" value="8a32f6d9-1d67-169f-c200-579ce397a71f" />
+					<attribute id="VocalPainResourceID" type="FixedString" value="273f6612-7064-f6cd-c41b-af443eab1251" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DeathEffect" type="guid" value="b4a28e8d-e5c4-421e-97e1-3f4cc9839152" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h7502a6d8g0a6cg45c9gad5bg56edfccf7958" version="1" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Dryad" />
+					<attribute id="Icon" type="FixedString" value="989a360f-d5e2-bca8-c0c3-cab0a75a3a83-_(Icon_Drow_Female)" />
+					<attribute id="IsEquipmentLootable" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="8" />
+					<attribute id="MapKey" type="FixedString" value="115b98c3-d89a-4b2e-9421-ea75368029cf" />
+					<attribute id="Name" type="LSString" value="Fey_PlanarAlly" />
+					<attribute id="ParentTemplateId" type="FixedString" value="070c3ff8-cda3-4406-b5c9-8d9d9e5f5524" />
+					<attribute id="SpellSet" type="FixedString" value="CommonSummonFlyActions" />
+					<attribute id="Stats" type="FixedString" value="Fey_PlanarAlly" />
+					<attribute id="Scale" type="float" value="1.3" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<attribute id="Race" type="guid" value="632746dc-dcab-4b16-9e7e-029a04aafb59" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Target_Help" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Projectile_Fly_Deva" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,8 @@
+new entry "Gremmy_Yarn"
+type "Object"
+using "_Loot"
+data "RootTemplate" "065d91d0-4626-478c-8c9d-2eacaa2a56d5"
+data "ValueOverride" "1"
+data "Weight" "0.5"
+data "Rarity" "VeryRare"
+data "Boosts" "UnlockSpell(Target_Summon_Gremmy)"

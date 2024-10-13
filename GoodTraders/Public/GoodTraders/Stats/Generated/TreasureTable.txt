@@ -1,0 +1,43 @@
+new treasuretable "PLA_ZhentarimTrader_Common"
+CanMerge 1
+new subtable "-1"
+object category "I_UNI_DarkUrge_Bhaal_Cloak",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_ORI_Wyll_Infernal_Robe",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_VoicelessPenitent"
+CanMerge 1
+new subtable "1,1"
+object category "T_LOW_MurderTribunal_ViciousWeapon",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Bhaalist_Armor",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Bhaalist_Gloves",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Bhaalist_Hat",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Critical_Force_Gloves",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_LC_Fleshrend_Shortsword",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Zhentarim_SleeperDagger",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearvendor_Trade"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_Selunite_Isobel_Robe",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_OrinsImpersonation_Smith"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_Frost_Offhand_Dagger",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_PHB_DwarvenThrower_Warhammer",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_WYR_Hellrider_Longbow",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_LC_Nymph_Cloak",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_OfArcanicDefense_Robe",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_SpiritualStand_Greataxe",1,0,0,0,0,0,0,0
