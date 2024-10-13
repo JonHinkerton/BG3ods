@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="bfb3d390-2606-4886-a7d4-124b55554606" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h7df28802g5af4g4dc5gaacag91c354a55077" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="hf4cecf36g089fg4aa0g8771g0dc60826a997" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="9770f7ef-31ac-4e45-a5d2-70d4c348d720" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_RedWhite_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M001_MDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="812c16b7-2305-4d41-a652-4e6ffe9fdbae" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h13c96dc9g0325g4706g905fg5fa788d9f63e" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="hc0d02273ge44cg4b3cgbea0gaebdf2eef9fa" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="d1721435-1db2-4bd2-a933-fdad2f9b1f9a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_BluePurple_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M002_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="7d4f565f-310a-4a21-a622-edfba028fd59" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hf149d032g305dg4ff6g9e4dg94c3ff4226d2" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h57aede9eg8574g4ef4gb826g9f979a347b0b" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="af409f01-49b0-4c4f-9f4d-dc49ac2e13d1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Blue_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M003_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="e6c73c82-a6b3-4503-b58b-adc743b77b80" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h778f8861g385bg4698gb73eg30fa0b63c49b" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h02a943a9ga782g4399ga937g1569695e9ff1" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2a763e73-0750-4720-988f-39c568bc7bd8" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Orange_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M004_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="86494d64-877a-4740-a57a-2f9bf4ad14eb" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hac8c3396g2ef8g4503gac0ag481c1a12a45f" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h4a3d1bafge2acg41b2g8fbdge736f0e2f703" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="74e15696-77f8-4e01-abe3-cab1fbf13412" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_WhiteBlack_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M005_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="789551ae-f3fb-4f9d-a05b-4f8b76a5d10a" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h8429ed39gbd7bg4eaag851dg8dc47dcae2f5" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h100581b3g2148g44feg95d3g3fe5a61124bd" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="19a0d36d-c33f-44e4-a5e8-a8548debfc06" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_BlackRed_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M006_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="e024b365-3c63-4dda-90a0-39d05d0228b1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hcdaca002g63f8g4a61gbd43gae35db82aa0b" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h9ea46b41gab41g4502gb86bg76fff9fb8f32" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2de8ee7b-b200-44ea-b01e-1458526a4cf2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Purple_02" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M007_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="c80abe87-8fba-4b43-a47f-bc7660967cd2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="haaa31102g5cb1g4eeeg8a78g181cd636ff74" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h43ebababg74cfg430bga144g7789a2d56b16" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4550ea48-196f-4e66-8dd2-2613128ed361" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Teal_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M008_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="ba9475e8-bb05-4b93-bb12-439cb3507ec1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h338aa762g35d1g4f10gbbb7g8751149d0c86" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h8c7f850cg2effg4eadg87dfge842f2d52380" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e6519c99-b142-41de-aa04-ae59e3aefd4d" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Green_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M009_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="11af89f8-aa92-4072-a0a6-adedf3bf49c2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h36497019ga872g45eeg9c5dg6df0d524ec51" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h445428e6gc6d1g46c8g85e4g4e7c1dc00ae9" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2c527ee3-7c3f-4986-9e55-8419ccd5fa0b" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_WhiteBrown_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M010_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="d2c0be24-40d4-408d-88d2-60c2d248d5a3" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h590131abg344fg4aa2g9f5bgbd3f25d885ce" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="hccb56d46g35b5g4ad4ga570g8fb403926a7c" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b03e1944-30ce-47b7-98f1-c73358cdf28a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_RedBrown_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M011_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="85dabbe5-14d8-460f-9677-355b0f13aa58" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hdf633328g0763g470agaf29g1f6b79376d83" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="hef2f4881g3693g4da9g9da9ga73eb5209eeb" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2a051b0e-ad77-4126-bce4-038f9e86788d" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Blue_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M012_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="171f59a0-b143-4250-a177-0d7b53fae041" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h46d72ea6g5cb0g49cag9ec4g215697c18597" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="ha1ddaf5dg2e98g4fb8g97e9gf9f071d63564" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="d1b045f4-cc08-445b-9a95-6061d0eb5514" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_BlackTeal_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M013_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="988a7f63-ce1f-4e37-994c-c4e7825843a7" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h614c5fdfg37aeg43cbgbe44gb3a05eac67e3" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h631f7eabge9e3g4233gbb27g3e9a2bb216e0" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="21595282-f51c-43ac-abaa-98a8cb9630b5" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_RedWhite_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M014_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="f256c27e-25b6-41a8-8a39-491218335b76" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2d233178gfc9ag49f4g8667gb414d795d22f" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h001c17f9g368ag4444gac4dg3555a754b8c6" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4a54c1e2-e496-4f78-b31c-83cb0459773d" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Purple_02" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M015_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="1d77250e-3678-406d-a9c7-d11b7675b606" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2b260c41g4198g4eccgb878g44e2aac0d955" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h2075790ag6859g4955gb439gaf91d0e08b2a" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="39539462-fc08-4aec-aec8-235805cdd6eb" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_BluePurple_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M016_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="39ec9134-64b2-418b-b7e5-b4d65847a925" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h537dcf3bg09ceg4c19g85acg74b5e9772c71" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="hc76cb48eg6c77g4764g8dd2g79ecce23797c" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="83eb6b35-e68a-4d2d-9ac1-78749afd7e8e" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Purple_04" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M017_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="a193df1d-78ac-4715-847f-e1184af7e6e3" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h54d1f542gd3eag45aega266gc623ab777751" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h8a0ce095gcf4bg44f1g9582g8658438c18d1" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="0b3a0cc5-776f-4443-960a-c3c3c525f528" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Golden_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M018_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="ab2a81a9-15ea-47b3-ab46-bff582435748" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hbc0ebc45g1444g4db7gb11bgbeb724afe280" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="haca9ac83g8243g4296g8012gdb61ee903405" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4463f1fc-0f1a-4b09-9db3-95ecf89d20c3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Green_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M019_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="b66f4330-99e4-4095-b820-7913c84d34b3" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hee1fcb8bg7c25g42fcgb140g615e8ef70c15" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="hb672a226gc2efg4ef7g9859gef0ad8219ac5" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="470a2ddb-0fa4-4af3-af5f-45cde8f71b80" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_RedBrown_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M020_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="c086f030-545c-4649-a4de-42ff4035b125" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h5bf82821ge3b2g4521gadb6g0693747eff49" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h77e07189gc671g42f5g8b3eg94c4e8aa38e7" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="6584caf2-4208-45b8-85e3-98c697cd4270" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_RedBrown_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M021_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="c093b893-52b8-4707-a84f-a49415559ac4" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h6515eea1g1e68g4936g9e2fgd08049c4d3d8" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h1c6cb8bagbaa7g476fgb153g29cd84408ce3" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="aac9b885-4953-4b63-b1ab-a36637d96ead" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_BlueYellow_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M022_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="80344d96-cd6a-43bf-b7ee-11874c9008ab" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hf461d105g91c8g4143g85cegb2361aafd08d" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h7d5e752cg4b67g4e23ga108g45e278fee028" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="941294e2-6c50-47bc-bbd5-9e6aedf6ac35" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Ocean_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M023_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="2103a411-46de-4ca0-a919-a9b46dbd7c76" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h85ede79bg3626g4f6bg911fg1ffca13e0e2f" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h5747b907gbdb6g456agb4edgab04324607b3" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="d8b12ee9-72f9-4178-ab92-4470fef1cc73" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_RedBrown_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M024_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="2200fced-60e9-4d5e-8c39-e988c7521fba" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hdf9deb83g6ba7g4b9dgaac3ga79f01bd2194" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="hd75cf782g2726g49e9gae9dg003fa6eff0d3" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="99e7428d-fa73-4b50-860e-752a4ecf1e80" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Blue_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M025_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="6837a0af-a107-4374-adf1-018189089e0c" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h84c2685age4c6g4117g810dg0af1643efed4" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h4ff18966g8b54g41d1g9ab0g9c078192ecd3" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ff0a12ef-3656-4bd8-a104-0a08f861a82e" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_BlackRed_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M026_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="31d7176b-b955-4efd-950f-2233ef34443d" />
+					<attribute id="DisplayName" type="TranslatedString" handle="ha5d65ef3ge824g4655g85c7g2e5743bf4bcd" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h28a71676g964dg4c42g8203gfbd760c50da0" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="6a8d2625-1fef-46d9-9ca7-ac2c9e02363d" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Green_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M027_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="b81bf850-86aa-4ccf-bd6b-381fd074077d" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h14c21385g63a0g484bgad3fg74a78f3c73f8" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="he60a87e1ge6e8g4bc5gbf79g27d5cd5f8189" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="bebeb539-576c-446f-8eb9-b8efe4e06648" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_RedBrown_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M028_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="901dfc5d-76e9-4fc7-9d39-f639b8fa8c8a" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h20d4f40agedebg4c89g888fg3bd54a8aaeff" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="hcb45ba4bg1141g451eg89fegee55a8715cc2" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e96ec210-6825-448d-9b35-fba13c597e67" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_Green_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M029_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="ColorPreset" type="guid" value="7aa87315-bd3b-4717-87a8-361e07a00218" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h51643803g9953g4088g91bbg414fabee7471" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="hc536102ag23bcg4d02g8c3fg407fd349cae5" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="01894871-c2d8-4bdb-9846-a3bf42a1f842" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Dye_BlackRed_01" />
+					<attribute id="VisualTemplate" type="FixedString" value="0adb9e3a-c865-1cf7-aad1-6fbf9261ccbe" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Dye_JH_M030_GearDyes" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h88729d01g3bd5g40eeg8627g7e074642da20" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hf025e965ga2f5g46cdg9872g690e3480a336" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Backpack_C_Posed_A" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="IsInspector" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="92626aa2-d9d6-4200-a97d-9787756c3c76" />
+					<attribute id="Name" type="LSString" value="OBJ_GearDyes_Backpack" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.85" />
+					<attribute id="Stats" type="FixedString" value="OBJ_GearDyes_Backpack" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="OBJ_GearDyes_Backpack_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

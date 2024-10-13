@@ -1,0 +1,8 @@
+new entry "Crag_Rock"
+type "Object"
+using "_Loot"
+data "RootTemplate" "aecd186e-ab4b-4d70-bd63-6ea2a2ba6882"
+data "ValueOverride" "1"
+data "Weight" "0.5"
+data "Rarity" "VeryRare"
+data "Boosts" "UnlockSpell(Target_Summon_Crag)"

@@ -1,0 +1,8 @@
+new entry "Lantern_DollyDollyDolly"
+type "Object"
+using "_Loot"
+data "RootTemplate" "3bca6596-c07b-41f9-a363-f70565b423a8"
+data "ValueOverride" "1"
+data "Weight" "0.5"
+data "Rarity" "VeryRare"
+data "Boosts" "UnlockSpell(Target_Summon_DollyDollyDolly)"

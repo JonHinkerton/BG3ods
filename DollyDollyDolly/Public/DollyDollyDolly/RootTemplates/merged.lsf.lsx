@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c400b7f2-3322-5403-6196-0e53bc3a6c89" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h3b05508ag5d95g4cbfgbee7gf2c7cf0edc05" version="1" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="LightID" type="FixedString" value="d4d0a9a3-d761-435b-a007-e6b3d38244f0" />
+					<attribute id="MapKey" type="FixedString" value="b8c05cfa-0f01-415b-b879-bfdad8176079" />
+					<attribute id="Icon" type="FixedString" value="f957b201-2bf1-a6ba-9902-4072163ec707-EQP_Dagger_Leather_(Icon_Gnomes_Female)" />
+					<attribute id="Name" type="LSString" value="DollyDollyDolly_Summon" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ba89b71e-dff9-4af5-8531-ef810ea7d282" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="2d2dbfa4-f5e9-768f-b6d3-68e3fc3ebd3a" />
+					<attribute id="Stats" type="FixedString" value="Pixie_DollyDollyDolly_Summon" />
+					<attribute id="Scale" type="float" value="0.5" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209006" />
+					<attribute id="CanJoinCombat" type="bool" value="True" />
+					<attribute id="CanFight" type="bool" value="True" />
+					<attribute id="SpellSet" type="FixedString" value="DollyDollyDolly_Actions" />
+					<attribute id="Race" type="guid" value="632746dc-dcab-4b16-9e7e-029a04aafb59" />
+					<children>
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Target_Help" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Projectile_Fly" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams">
+							<attribute id="MovementAcceleration" type="float" value="12" />
+							<attribute id="MovementSpeedStroll" type="float" value="0.8" />
+							<attribute id="WorldClimbingBlendspace_DownA" type="FixedString" value="575b6b01-b21a-62ff-7883-433fe47bf23a" />
+							<attribute id="WorldClimbingBlendspace_UpA" type="FixedString" value="b566ed99-b547-2b59-7c7e-7ab982e9675b" />
+						</node>
+						<node id="PickingPhysics">
+							<children>
+								<node id="PickingPhysicsTemplates">
+									<attribute id="MapKey" type="FixedString" value="CharacterSittingPicking" />
+									<attribute id="MapValue" type="FixedString" value="2d2dbfa4-f5e9-768f-b6d3-68e3fc3ebd3a" />
+								</node>
+								<node id="PickingPhysicsTemplates">
+									<attribute id="MapKey" type="FixedString" value="CharacterLyingPicking" />
+									<attribute id="MapValue" type="FixedString" value="2d2dbfa4-f5e9-768f-b6d3-68e3fc3ebd3a" />
+								</node>
+								<node id="PickingPhysicsTemplates">
+									<attribute id="MapKey" type="FixedString" value="CharacterDeadPicking" />
+									<attribute id="MapValue" type="FixedString" value="b21eb173-37e9-7cc4-153f-b925826f6e4a" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hac3b1929g6014g4e25g81eag7c0a5addb280" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="had700306g93fdg44f4gaf76gbed0f3abfd06" version="1" />
+					<attribute id="InteractionFilterType" type="uint8" value="1" />
+					<attribute id="Icon" type="FixedString" value="Item_PUZ_Drider_Moon_Lantern_A_Broken_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="3bca6596-c07b-41f9-a363-f70565b423a8" />
+					<attribute id="Name" type="LSString" value="Lantern_DollyDollyDolly" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c9e45e5a-f089-480b-ab3a-7f5f76dccc3b" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="9ca8c9be-73e7-5c86-3674-8bd48f8bc159" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="Lantern_DollyDollyDolly" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="23ccf63d-13f8-eb28-e389-d960562dab41" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855902" />
+					<children>
+						<node id="InteractionFilterList">
+							<children>
+								<node id="InteractionFilter">
+									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-8df8-ab107ccb0d37" />
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ClassId" type="guid" value="5515c27c-de5f-4821-942d-64a17949f72e" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="Consume" type="bool" value="False" />
+											<attribute id="SkillID" type="FixedString" value="Target_Summon_DollyDollyDolly" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.4400837" />
+									<attribute id="Max" type="fvec3" value="0.153233 0.4414834 0.1514055" />
+									<attribute id="Min" type="fvec3" value="-0.1508087 0.001399755 -0.1476229" />
+									<attribute id="Radius" type="float" value="0.1532019" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.4400837" />
+									<attribute id="Max" type="fvec3" value="0.07661651 0.4414834 0.07570277" />
+									<attribute id="Min" type="fvec3" value="-0.07540436 0.001399755 -0.07381146" />
+									<attribute id="Radius" type="float" value="0.07660094" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.4400837" />
+									<attribute id="Max" type="fvec3" value="0.153233 0.4414834 0.1514055" />
+									<attribute id="Min" type="fvec3" value="-0.1508087 0.001399755 -0.1476229" />
+									<attribute id="Radius" type="float" value="0.1532019" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="AnubisConfigName" type="FixedString" value="SCL_Drider" />
+					<attribute id="CanOpenDoors" type="bool" value="True" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="f9377f31-4570-53ab-8f2b-3a217de25432" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h67bebf93g9096g4b47g81b6g7c3b3d553107" version="1" />
+					<attribute id="Equipment" type="FixedString" value="SCL_Drider" />
+					<attribute id="Faction" type="guid" value="51a4ce8c-957b-4a23-875b-2d9a0a3c0929" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Icon" type="FixedString" value="f9377f31-4570-53ab-8f2b-3a217de25432-SCL_Drider_(Icon_Drider)" />
+					<attribute id="IsEquipmentLootable" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="aa59ce01-3d2e-42e8-a539-c07e0ea292ab" />
+					<attribute id="Name" type="LSString" value="S_SCL_Drider" />
+					<attribute id="Stats" type="FixedString" value="SCL_DriderCaravan_Drider" />
+					<attribute id="TemplateName" type="FixedString" value="6145f104-895d-4023-8fc7-1ba2cea1480a" />
+					<attribute id="Title" type="TranslatedString" handle="h93d684cbg3bc8g4975g8e67g3720648f6994" version="1" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="ItemList">
+							<children>
+								<node id="Item">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="Amount" type="int32" value="1" />
+									<attribute id="CanBePickpocketed" type="bool" value="True" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="IsDroppedOnDeath" type="bool" value="True" />
+									<attribute id="IsTradable" type="uint8" value="0" />
+									<attribute id="ItemName" type="LSString" value="S_SCL_DriderMoonlantern" />
+									<attribute id="LevelName" type="LSString" value="SCL_Main_A" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="TemplateID" type="FixedString" value="9aca1109-a59d-47d3-8f35-f248b70518f9" />
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="UUID" type="FixedString" value="4591d212-8f1b-4b85-880c-dc94f76702f4" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="SCL_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="91450084-e118-ff17-bf5d-ec7212c70b99" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="20be695a-e1c2-b459-4c27-1c5db7721226" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="0111a41a-d47f-42e5-a000-eea3f75e354d" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="20a2809a-36a7-4b02-baa2-3a022767d7cb" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="20.03175 0.006999969 -1413.575" />
+							<attribute id="RotationQuat" type="fvec4" value="0 -0.7939653 0 0.607963" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

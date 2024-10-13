@@ -1,0 +1,50 @@
+new treasuretable "MOO_BugBearvendor_Trade"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_BG_Harmonium_Halberd",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_PHB_OfLifestealing_Shortsword",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Fire_HeatOnWeaponDamage_Battleaxe",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_HAV_ThornBlade_Scimitar",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Shadow_Shortsword",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_BG_Darkfire_Shortbow",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Bonded_Shocking_Warhammer",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_OfSwordmaster_Gloves",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Shadow_FogOfCloudDisengage_Cloak",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Evasive_Shoes",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Harpers_RingOfAttraction",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Acrobat_Shoes",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_OfAutomaton_Gloves",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_CharismaCaster_Robe",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_VoicelessPenitent"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_EndGame_Metal_Boots",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_EndGame_Plate_Armor",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_BG_OfTheMasters_Legacy_Gauntlet",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_DevilsBlackmith_ScaleMail",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_LuckySeven_Amulet",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_BarbMonk_Leather_Circlet",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_Festivities_Trader_GoblinWeapons"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_PHB_Ring_Of_Protection",1,0,0,0,0,0,0,0

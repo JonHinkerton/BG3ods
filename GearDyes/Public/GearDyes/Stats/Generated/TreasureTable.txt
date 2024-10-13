@@ -1,0 +1,70 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_GearDyes_Backpack",1,0,0,0,0,0,0,0
+
+new treasuretable "OBJ_GearDyes_Backpack_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M001_MDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M002_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M003_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M004_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M005_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M006_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M007_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M008_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M009_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M010_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M011_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M012_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M013_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M014_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M015_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M016_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M017_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M018_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M019_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M020_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M021_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M022_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M023_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M024_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M025_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M026_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M027_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M028_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M029_GearDyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_JH_M030_GearDyes",1,0,0,0,0,0,0,0
+
+
+

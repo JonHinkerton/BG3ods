@@ -1,0 +1,6 @@
+new equipment "SCL_Drider"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "MAG_Drowelf_SpiderSnare_Longsword"
+add equipmentgroup
+add equipment entry "Lantern_DollyDollyDolly"

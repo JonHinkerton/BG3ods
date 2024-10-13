@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="330"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+				<node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0);ProficiencyBonus(Skill,Perception)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Drow"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Drow_DrowWeaponTraining;SuperiorDarkvision;FeyAncestry"/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,HighElfCantrip,Intelligence)"/>
+                    <attribute id="TableUUID" type="guid" value="a43498f5-d72f-4a05-b721-1feea9acb3ad"/>
+                    <attribute id="UUID" type="guid" value="4a634f24-bdcb-4559-b8be-7847133ad1c3"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="HalfDrow"/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,HighElfCantrip,Intelligence)"/>
+                    <attribute id="TableUUID" type="guid" value="4ef615e7-e401-4304-bedc-5c229caa1dc2"/>
+                    <attribute id="UUID" type="guid" value="58dae581-c25a-4dfb-8a57-589bf4b34f62"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

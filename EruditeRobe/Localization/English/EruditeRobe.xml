@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hf01c5ae3g9368g4be5g9c12gadcb5547ef71" version="1">Erudite Robe</content>  
+	<content contentuid="h922e8eb5gb789g471dgb78fge61422789bc6" version="1">A finely-embroidered wizard's robe</content>
+	<content contentuid="h0239cd63g27e8g4289gbe84gfdaf8337fb6c" version="1">Studious Caster</content>
+	<content contentuid="hfa586fa4g9c6bg4fafg8642g2203f5c773fb" version="2">Your &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt; deal additional damage equal to your Intelligence &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;.</content>
+	<content contentuid="h0f50c542g8931g4e66g94f0gd646a41c99ce" version="1">Strong Mind, Strong Body</content>
+	<content contentuid="h3864ab01gca5cg4366ga935g8722031921f3" version="2">At the beginning of the wearer's turn, the robe activates, granting them &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; equal to their Intelligence &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;.</content>
+	<content contentuid="h7a710858gd10ag48dcg940bg160093a7383c" version="1">Strong Mind, Strong Body: you have gained &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit point&lt;/LSTag&gt; equal to your Intelligence modifier.</content>	
+</contentList>
+

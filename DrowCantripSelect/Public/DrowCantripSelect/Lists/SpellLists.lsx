@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="1" build="1"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Drow cantrip"/>
+                    <attribute id="Spells" type="LSString" value="Target_DancingLights"/>
+                    <attribute id="UUID" type="guid" value="d707ec70-da8a-457b-9b69-7cf5205eef0e"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
