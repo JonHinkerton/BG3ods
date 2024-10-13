@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="319"/>
+    <region id="Outcomes">
+        <node id="root">
+            <children>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="ChaosBolt"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ChaosBolt_Acid"/>
+                    <attribute id="UUID" type="guid" value="7f6bacd4-d00d-473f-9057-43e1661d3c3c"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="ChaosBolt"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ChaosBolt_Cold"/>
+                    <attribute id="UUID" type="guid" value="02202ee8-4de3-4b7c-b6c8-d1bbf283de3f"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="ChaosBolt"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ChaosBolt_Fire"/>
+                    <attribute id="UUID" type="guid" value="62db2a24-08b4-43fd-ba7f-7938152adc9f"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="ChaosBolt"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ChaosBolt_Lightning"/>
+                    <attribute id="UUID" type="guid" value="614ea8dc-3fa3-428b-8a5f-c7d22b52ae61"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="ChaosBolt"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ChaosBolt_Poison"/>
+                    <attribute id="UUID" type="guid" value="69e80cba-feae-4a83-a35a-1c9e39a762f6"/>
+                </node>
+                <node id="Outcome">
+                    <attribute id="GroupName" type="FixedString" value="ChaosBolt"/>
+                    <attribute id="Spell" type="FixedString" value="Shout_ChaosBolt_Thunder"/>
+                    <attribute id="UUID" type="guid" value="646f9932-330b-478b-8345-6084c7cb4e05"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

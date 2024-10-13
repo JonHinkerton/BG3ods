@@ -1,0 +1,7 @@
+
+new spellset "Squire_Actions"
+add spell "Shout_Dash_NPC"
+add spell "Projectile_Jump"
+add spell "Shout_Hide"
+add spell "Shout_Disengage"
+add spell "Target_Claws_Squire"

@@ -1,0 +1,8 @@
+new entry "Whisper_Bone"
+type "Object"
+using "_Loot"
+data "RootTemplate" "7095d7a6-73ae-4dbd-9ac2-aa4168d8cda9"
+data "ValueOverride" "1"
+data "Weight" "0.5"
+data "Rarity" "VeryRare"
+data "Boosts" "UnlockSpell(Target_Summon_Whisper)"

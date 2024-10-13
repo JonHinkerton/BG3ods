@@ -1,0 +1,79 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_WandPack_Box",1,0,0,0,0,0,0,0
+
+new treasuretable "OBJ_WandPack_Box_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_WPN_ArcWand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_WPN_BalancedWand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_WPN_ApprenticeWand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_WPN_BindingWand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_WPN_NecroticWand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_WPN_SoulWand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_ChaosWand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_WPN_ChainMaster",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_WPN_PyroWand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_WPN_ElegantWand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Wandoheshkir",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_WPN_ApprenticeWand",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_WPN_BalancedWand",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_WPN_ArcWand",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_MysticCarrion_Trade_Magic"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_WPN_BindingWand",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearvendor_Trade"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_WPN_NecroticWand",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Thiefling_Trade"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_WPN_SoulWand",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_ZhentarimTrader_Common"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_ChaosWand",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_WPN_ChainMaster",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_GithQuartermistress_Trade"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_WPN_PyroWand",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_WPN_ElegantWand",1,0,0,0,0,0,0,0

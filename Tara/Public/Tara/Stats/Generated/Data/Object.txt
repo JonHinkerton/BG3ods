@@ -1,0 +1,8 @@
+new entry "Tara_Book"
+type "Object"
+using "_Loot"
+data "RootTemplate" "a47f90fe-69f0-4c30-a69c-dfbeae1701f0"
+data "ValueOverride" "1"
+data "Weight" "0.5"
+data "Rarity" "VeryRare"
+data "Boosts" "UnlockSpell(Target_Summon_Tara)"

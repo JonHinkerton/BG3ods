@@ -1,0 +1,7 @@
+
+new spellset "Tara_Actions"
+add spell "Projectile_Fly"
+add spell "Target_Help"
+add spell "Shout_Disengage"
+add spell "Shout_Dash_NPC"
+add spell "Shout_Hide"

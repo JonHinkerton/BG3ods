@@ -1,0 +1,8 @@
+new entry "Squire_Bone"
+type "Object"
+using "_Loot"
+data "RootTemplate" "85625de9-e602-4ef2-89d7-07b7833c641d"
+data "ValueOverride" "1"
+data "Weight" "0.5"
+data "Rarity" "VeryRare"
+data "Boosts" "UnlockSpell(Target_Summon_Squire)"

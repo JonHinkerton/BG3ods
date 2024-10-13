@@ -1,0 +1,6 @@
+new entry "UNDEADTHRALL_NOEXPLODE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "RemoveEvents" "OnSourceDeath"
+data "DisplayName" "h94befc29gbdaag4d08ga6c2gd8fe26b9b441;1"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead"

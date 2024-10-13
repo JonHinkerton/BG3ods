@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h1995c092g5d4dg4566gb30bg308031bcb8b7" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he35c7dc8g60a3g4b12gb1c0g63a1edd28e1e" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="2d85d633-d496-44a1-a643-0e95ef879a6d" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Wand_B_0" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="b1ed6e3d-06df-4335-aa28-8159dcd67b34" />
+					<attribute id="Name" type="LSString" value="WPN_Mod_Wand" />
+					<attribute id="ParentTemplateId" type="FixedString" value="97be1f14-e49a-45fe-89c7-99c04653599d" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="56184af3-63ea-442e-b111-fe81bff2c2f4" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="WPN_Mod_Wand" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="13d90158-ff82-caa5-abf7-04c6a7786f82" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855930" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0374908" />
+									<attribute id="Max" type="fvec3" value="0.03898387 0.01495124 0.1716001" />
+									<attribute id="Min" type="fvec3" value="-0.06832638 -0.01495124 -0.3460817" />
+									<attribute id="Radius" type="float" value="0.166679" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0374908" />
+									<attribute id="Max" type="fvec3" value="0.03898387 0.05420124 0.1716001" />
+									<attribute id="Min" type="fvec3" value="-0.06832638 -0.006201239 -0.3460817" />
+									<attribute id="Radius" type="float" value="0.166679" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0374908" />
+									<attribute id="Max" type="fvec3" value="0.01949194 0.01495124 0.08580004" />
+									<attribute id="Min" type="fvec3" value="-0.03416319 -0.01495124 -0.1730409" />
+									<attribute id="Radius" type="float" value="0.0833395" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="5a08cea1-6d46-4e77-89ac-463562740d8c" />
+					<attribute id="Name" type="LSString" value="MAG_WPN_ArcWand" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="VisualTemplate" type="FixedString" value="f058efdb-1233-371d-738a-a0d1dfea8935" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h66d1ff75g5974g4ed8g8c7egf8ccf9dd84ce" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Wand_K_0" />
+					<attribute id="Stats" type="FixedString" value="MAG_WPN_ArcWand" />
+					<attribute id="Description" type="TranslatedString" handle="ha00f564cg8352g4ccegb302g68df42e796fb" version="1" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h7437ec00g6798g400dgbf6fg7caac3376d99" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h27ee05deg09e4g42ccg9952g315f905d70a4" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_Chest_Travel_A_Small_A" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="IsInspector" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="35656610-a4b8-4aef-ae60-281083704585" />
+					<attribute id="Name" type="LSString" value="OBJ_WandPack_Box" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.5" />
+					<attribute id="Stats" type="FixedString" value="OBJ_WandPack_Box" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="OBJ_WandPack_Box_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="bf50e9c7-b452-4da1-addb-d4fec5c3d1ed" />
+					<attribute id="Name" type="LSString" value="MAG_WPN_BalancedWand" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="VisualTemplate" type="FixedString" value="c5e2e238-cda7-0dad-7101-df2f8c1055c2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h96396ce6g0bd2g464bg971bgb9a2177cfb98" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Wand_D_0" />
+					<attribute id="Stats" type="FixedString" value="MAG_WPN_BalancedWand" />
+					<attribute id="Description" type="TranslatedString" handle="h300e8a85g373dg4d03g9245g4cdfac9dab50" version="1" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="07d0cb93-0168-492a-bcc4-62295adef0ec" />
+					<attribute id="Name" type="LSString" value="MAG_WPN_ApprenticeWand" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="VisualTemplate" type="FixedString" value="003aec90-b4f7-1498-faa4-a5daed7ff852" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h9df7deb8gb4b9g45feg9631gb831961bf89a" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_UNI_Devils_Needle_Levistus_A" />
+					<attribute id="Stats" type="FixedString" value="MAG_WPN_ApprenticeWand" />
+					<attribute id="Description" type="TranslatedString" handle="haf29adfeg89d9g4d9dgbaa8g828302123ef3" version="1" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="4e0534c5-0c84-46b4-a2db-de27f9297155" />
+					<attribute id="Name" type="LSString" value="MAG_WPN_BindingWand" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="VisualTemplate" type="FixedString" value="8b8a7e4c-a194-2066-80c4-d8d0cf38bba2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h29aaceecgee8dg48c2gb061g33541ff8c70f" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Wand_J_0" />
+					<attribute id="Stats" type="FixedString" value="MAG_WPN_BindingWand" />
+					<attribute id="Description" type="TranslatedString" handle="h582e482bgf5dfg42f9g9128g5dfbc32a3e11" version="1" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="f60592c2-ef89-4690-93f8-cb20a88abc80" />
+					<attribute id="Name" type="LSString" value="MAG_WPN_NecroticWand" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="VisualTemplate" type="FixedString" value="a69ef2a6-845c-16e2-b4d0-1a42460330f1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h61845dcag490fg44e4g9669g730c45df2cbc" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Wand_G_0" />
+					<attribute id="Stats" type="FixedString" value="MAG_WPN_NecroticWand" />
+					<attribute id="Description" type="TranslatedString" handle="h59ec38aeg7d83g4480g9ecfgfe3fc0819627" version="1" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="c8366440-fc2a-496a-b3b9-12372d08872c" />
+					<attribute id="Name" type="LSString" value="MAG_WPN_SoulWand" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="VisualTemplate" type="FixedString" value="440ae404-f397-1b35-271c-9ba963b4dea5" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he6c2c45eg0db8g47d4g8597gfeed6064c6e1" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Wand_I_0" />
+					<attribute id="Stats" type="FixedString" value="MAG_WPN_SoulWand" />
+					<attribute id="Description" type="TranslatedString" handle="heaeab901gf35dg4e0fgb4aagb6152adbbce4" version="1" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="ac735069-716b-415d-990a-e5abc5083263" />
+					<attribute id="Name" type="LSString" value="MAG_Wandoheshkir" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="VisualTemplate" type="FixedString" value="13d90158-ff82-caa5-abf7-04c6a7786f82" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd61ed6a7gc34eg4ed8g972dg5c5292749d10" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Wand_B_0" />
+					<attribute id="Stats" type="FixedString" value="MAG_Wandoheshkir" />
+					<attribute id="Description" type="TranslatedString" handle="h449168cbg9efeg4293gbba6g89474fac6401" version="1" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="bb54c863-f66f-4343-a88a-eb67f9a7dc8f" />
+					<attribute id="Name" type="LSString" value="MAG_ChaosWand" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="VisualTemplate" type="FixedString" value="13d90158-ff82-caa5-abf7-04c6a7786f82" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hbad72f06g47b7g476fg847fg186749cecc71" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Wand_B_0" />
+					<attribute id="Stats" type="FixedString" value="MAG_ChaosWand" />
+					<attribute id="Description" type="TranslatedString" handle="hb4a3d36cga382g4f94g914cg303d4bd57a2a" version="1" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="5144bfce-6737-420e-b7cd-3f65dfb64600" />
+					<attribute id="Name" type="LSString" value="MAG_WPN_ChainMaster" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="VisualTemplate" type="FixedString" value="ff4fccd3-a5e1-a66f-21e3-dd2ca2b8b765" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h1adfc490gf117g43f2ga66ega230e46bb886" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Wand_F_0" />
+					<attribute id="Stats" type="FixedString" value="MAG_WPN_ChainMaster" />
+					<attribute id="Description" type="TranslatedString" handle="hb8c22ab7gdd94g4435g9c75gce3a85b763dd" version="1" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="fa7cae1f-c2a0-491f-893a-0e8bc732183f" />
+					<attribute id="Name" type="LSString" value="MAG_WPN_PyroWand" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="VisualTemplate" type="FixedString" value="c5e2e238-cda7-0dad-7101-df2f8c1055c2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd4e0a5c4g110bg4d3egafe4g6d71e09c7949" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Wand_D_0" />
+					<attribute id="Stats" type="FixedString" value="MAG_WPN_PyroWand" />
+					<attribute id="Description" type="TranslatedString" handle="h405d73a0g91acg4a29ga3cegbe8c323ee9ee" version="1" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="558ebd8f-b242-4072-a883-1215c7f2f65d" />
+					<attribute id="Name" type="LSString" value="MAG_WPN_ElegantWand" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="VisualTemplate" type="FixedString" value="003aec90-b4f7-1498-faa4-a5daed7ff852" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2e26912ega81ag48eegae84g5ff34ae54df1" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_UNI_Devils_Needle_Levistus_A" />
+					<attribute id="Stats" type="FixedString" value="MAG_WPN_ElegantWand" />
+					<attribute id="Description" type="TranslatedString" handle="he9c2ac54geafbg445ag9f74gbcfd4e6f4572" version="1" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
