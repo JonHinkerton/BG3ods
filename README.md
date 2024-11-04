@@ -5,4 +5,4 @@ As such, I am posting these here for any enterprising modder to fork and take ov
 
 If you do make anythiing from these, drop me a note and let me know, I'll always be curious where they wind up.
 
-Developer notes: The script file in each of the pet summon mods is there to prevent multiplke copies of a summon being made by different party members. It's not essential functionality.  If you want to make the mod not reliant on the SE, just pull out the scripts folder.
+Developer notes: The script file in each of the pet summon mods is there to prevent multiple copies of a summon being made by different party members. It's not essential functionality.  If you want to make the mod not reliant on the SE, just pull out the scripts folder.
